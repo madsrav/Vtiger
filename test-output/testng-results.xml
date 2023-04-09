@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-17T12:30:08 IST" name="Default suite" finished-at="2023-01-17T12:32:08 IST" duration-ms="119733">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T12:30:08 IST" name="Default test" finished-at="2023-01-17T12:32:08 IST" duration-ms="119733">
+      <class name="com.crm.Vtiger.Modules.TC002_CreateOrganistionTest">
+        <test-method is-config="true" signature="connectToDataBase()[pri:0, instance:com.crm.Vtiger.Modules.TC002_CreateOrganistionTest@59505b48]" started-at="2023-01-17T12:30:08 IST" name="connectToDataBase" finished-at="2023-01-17T12:30:08 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectToDataBase -->
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:com.crm.Vtiger.Modules.TC002_CreateOrganistionTest@59505b48]" started-at="2023-01-17T12:30:08 IST" name="launchingBrowser" finished-at="2023-01-17T12:30:22 IST" duration-ms="14138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.crm.Vtiger.Modules.TC002_CreateOrganistionTest@59505b48]" started-at="2023-01-17T12:30:22 IST" name="login" finished-at="2023-01-17T12:30:45 IST" duration-ms="22685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createOrganisation()[pri:0, instance:com.crm.Vtiger.Modules.TC002_CreateOrganistionTest@59505b48]" started-at="2023-01-17T12:30:45 IST" name="createOrganisation" finished-at="2023-01-17T12:31:20 IST" duration-ms="35206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganisation -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.crm.Vtiger.Modules.TC002_CreateOrganistionTest@59505b48]" started-at="2023-01-17T12:31:20 IST" name="logout" finished-at="2023-01-17T12:32:03 IST" duration-ms="42205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:com.crm.Vtiger.Modules.TC002_CreateOrganistionTest@59505b48]" started-at="2023-01-17T12:32:03 IST" name="closingBrowser" finished-at="2023-01-17T12:32:08 IST" duration-ms="5292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="closingDbConnection()[pri:0, instance:com.crm.Vtiger.Modules.TC002_CreateOrganistionTest@59505b48]" started-at="2023-01-17T12:32:08 IST" name="closingDbConnection" finished-at="2023-01-17T12:32:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingDbConnection -->
+      </class> <!-- com.crm.Vtiger.Modules.TC002_CreateOrganistionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
